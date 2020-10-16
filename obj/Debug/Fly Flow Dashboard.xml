@@ -1,0 +1,146 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Fly Flow Dashboard
+</name>
+</assembly>
+<members>
+<member name="T:Fly_Flow_Dashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.chat_bubble_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.chevron_left_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.down_button_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.gmail_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.medical_history_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.notification_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1481214110143_ed630356e1bb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1485875437342_9b39470b3d95">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1494354145959_25cb82edf23d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1494790108377_be9c29b29330">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1503443207922_dff7d543fd0e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1504703395950_b89145a5425b">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1506794778202_cad84cf45f1d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1507003211169_0a1dd7228f2d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.photo_1543555033_397fbd4e1ec4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.pie_chart_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.plus_math_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.Screenshot_822">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.search_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.sheets_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.task_completed_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.timer_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.video_call_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fly_Flow_Dashboard.My.Resources.Resources.web_design_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
